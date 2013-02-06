@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var soda = require('soda');
+var soda = require('../');
 
 module.exports = {
   'test .createClient() defaults': function(assert){
