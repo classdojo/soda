@@ -19,6 +19,8 @@
     "url": "git://github.com/LearnBoost/soda.git"
   },
   "dependencies": {
-    "expresso": "0.9.x"
+    "expresso": "0.9.x",
+    "async": "0.2.x",
+    "outcome": "0.0.x"
   }
 }
